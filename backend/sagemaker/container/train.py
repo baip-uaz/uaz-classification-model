@@ -73,7 +73,7 @@ if __name__ == '__main__':
         path = os.environ.get('SM_MODEL_DIR')
         
         # Ourtput test index
-        x_test.index.to_series().rename('index').to_csv('test_index.csv', index=False)
+        x_test.index.to_series().rename('index').to_csv(os.path.join(path, 'test_index.csv'), index=False)
         print('Test index has been saved')
         
         joblib.dump(model, os.path.join(path, 'best_model.gzip'))
