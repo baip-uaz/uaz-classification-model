@@ -1,4 +1,4 @@
-# Reto 3 - Modelo para encontrar el mejor modelo para datasets de clasificacion.
+# Reto 3 - Encontrar el mejor modelo para datasets de clasificacion.
 - <a href='https://docs.google.com/document/d/1xJ3HIgVNWuHVBUBUw5rH3cBZO9S3ZOBeakvHQnt9MNE/edit#heading=h.ml28dedttxq6'> Manual de Usuario </a><br>
 - <a href='https://docs.google.com/document/d/1AomvMdCLeJdokubZyDiRuXbpa4aW_ZUrmzJpEQkfB2E/edit#heading=h.ml28dedttxq6'> Manual de Tecnico </a>
 
