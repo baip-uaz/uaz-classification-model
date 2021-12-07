@@ -310,8 +310,7 @@ function listAlbums() {
           "</td>",
           "</tr>"
         ]);              
-      });    
-      //var message = photos.length
+      });          
       var message = count>0
         ? ""
         //? "<p>Click on the <span style='color:red;'>[Delete]</span> to delete the file.</p></br>"
