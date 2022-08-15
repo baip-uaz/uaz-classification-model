@@ -10,4 +10,4 @@
 ## Authors
 Ruth Chirinos (La Paz, Bolivia) & Juan Carlos Vargas (Bogota, Colombia)<br>UNIR Spain (Universidad Internacional de la Rioja)<br>    
 <a href="mailto:ruth.chirinos@gmail.com">ruth.chirinos@gmail.com</a> | <a href="mailto:juancvargass16@gmail.com">juancvargass16@gmail.com</a>
-Equipo de Trabajo del Laboratorio de Tecnologías Interactivas y Experiencia de Usuario LITUX.
+<br>Equipo de Trabajo del Laboratorio de Tecnologías Interactivas y Experiencia de Usuario LITUX.</br>
